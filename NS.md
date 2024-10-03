@@ -52,9 +52,15 @@ In conclusion, while the Nelson-Siegel model was originally developed as a stati
 
 Citations:
 [1] [PDF] Forecasting the Yield Curve in a Data-Rich Environment using the ... https://repub.eur.nl/pub/18254/EI2010-06.pdf
+
 [2] [PDF] Global Yield Curve Dynamics and Interactions https://www.nber.org/system/files/working_papers/w13588/w13588.pdf
+
 [3] [PDF] NELSON-SIEGEL YIELD CURVE MODEL ESTIMATION AND THE ... https://www.utmsjoe.mk/files/Vol.%204%20No.%202/B5_-_Zoricic_-_Badurina.pdf
+
 [4] [PDF] A rotated dynamic Nelson-Siegel model with macro-financial ... https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1851.en.pdf
+
 [5] A dynamic Nelson–Siegel model with forward-looking ... https://www.sciencedirect.com/science/article/abs/pii/S0165188919301137
+
 [6] The predictive power of Nelson–Siegel factor loadings for the real ... https://www.sciencedirect.com/science/article/abs/pii/S0927539821000335
+
 [7] [PDF] The Macroeconomy and the Yield Curve: A Dynamic Latent Factor ... https://www.nber.org/system/files/working_papers/w10616/w10616.pdf
